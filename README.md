@@ -12,7 +12,7 @@ is constantly undergoing revisions and the reader should refer to the [official 
 have the latest version of the source code. Please [create a GIST](https://help.github.com/en/github/writing-on-github/creating-gists) to raise any queries regarding the source code.
 
 # MIT license
-Copyright 2020, Dixon, Halperin and Bilokon.
+Copyright 2020, Dixon, Halperin and Bilokon
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
